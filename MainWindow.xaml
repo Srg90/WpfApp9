@@ -17,6 +17,7 @@
         <CommandBinding Command="local:CommandsWPF7.Color" Executed="Color"/>
         <CommandBinding Command="Open" Executed="Open"/>
         <CommandBinding Command="Save" Executed="Save"/>
+        <CommandBinding Command="Print" Executed="Print"/>
     </Window.CommandBindings>
 
     <Grid Style="{DynamicResource GridStyle}">
